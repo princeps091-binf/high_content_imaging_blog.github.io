@@ -14,7 +14,7 @@ project:
     - file: Overview.md
     
 site:
-  template: book-theme
+  template: article-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
