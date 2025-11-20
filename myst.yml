@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 78574325-2698-4486-a4a5-f05460bda53f
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/princeps091-binf/high_content_imaging_blog.github.io
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
